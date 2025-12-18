@@ -56,9 +56,14 @@ JTech(제이택)은 이 목표 하나로 시작한 1인 콘텐츠 스튜디오�
 <img src="https://skillicons.dev/icons?i=latex" />
 <img src="https://skillicons.dev/icons?i=discord" />
 
-<br><br>
+<br>
 
 ## 연락처
 [추가 예정]
 
+<br>
+
+## 그 외
 <img src="https://komarev.com/ghpvc/?username=jtech-co&label=Profile%20views&color=0e75b6&style=flat" />
+
+풀스택이 되고 싶은 하프스택(?) 개발자입니다. 주력 언어는 Javascript이며, 백엔드도 이걸로 짭니다.
