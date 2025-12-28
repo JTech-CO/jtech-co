@@ -20,7 +20,7 @@ JTech(제이택)은 이 목표 하나로 시작한 1인 콘텐츠 스튜디오�
 
 <br>
 
-## 기술 스택 (아마추어 이상)
+## 기술 스택 (아마추어 ~ 아마추어 이상)
 
 ### Programming
 <img src="https://skillicons.dev/icons?i=c" />
