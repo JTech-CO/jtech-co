@@ -53,7 +53,7 @@ JTech(제이택)은 이 목표 하나로 시작한 1인 콘텐츠 스튜디오�
 <br>
 
 ## 연락처
-[추가 예정]
+- Proton Mail: jtech-bryan@proton.me
 
 <br>
 
