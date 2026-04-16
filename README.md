@@ -33,12 +33,8 @@ JTech(제이택)은 이 목표 하나로 시작한 1인 콘텐츠 스튜디오�
 <img src="https://i.imgur.com/Z69soo1.png" width="48" height="48" title="Simulink"/>
 
 ### Design & 3D
-<img src="https://skillicons.dev/icons?i=ps" /> <img src="https://skillicons.dev/icons?i=ai" />
-<img src="https://skillicons.dev/icons?i=autocad" />
-<img src="https://i.imgur.com/rkAAMNM.jpeg" width="48" height="48" title="SolidWorks"/>
-<img src="https://i.imgur.com/CFtmKE9.png" width="48" height="48" title="CATIA"/>
-<img src="https://i.imgur.com/KwSVjHK.jpeg" width="48" height="48" title="Rhino"/>
-<img src="https://i.imgur.com/KRY31kX.jpeg" width="48" height="48" title="KeyShot"/>
+
+<div align="left"><img src="https://skillicons.dev/icons?i=ps,ai,autocad" height="48"/><br><br><img src="https://i.imgur.com/rkAAMNM.jpeg" width="48" height="48" title="SolidWorks"/><img src="https://i.imgur.com/CFtmKE9.png" width="48" height="48" title="CATIA"/><img src="https://i.imgur.com/KwSVjHK.jpeg" width="48" height="48" title="Rhino"/><img src="https://i.imgur.com/KRY31kX.jpeg" width="48" height="48" title="KeyShot"/></div>
 
 ### Hardware & Robotics
 <img src="https://skillicons.dev/icons?i=arduino" /> <img src="https://skillicons.dev/icons?i=raspberrypi" />
