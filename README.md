@@ -1,4 +1,4 @@
-<a href="https://jtech-co.github.io/my-website/MLP.html" target="_blank">
+<a href="https://github.com/JTech-CO" target="_blank">
   <img src="https://i.imgur.com/lRCvF90.jpeg" width="1000" />
 </a>
 
