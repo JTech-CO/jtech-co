@@ -53,7 +53,7 @@
 
 ### 개발 및 생산성 도구 (Development & Productivity)
 
-- VS Code, Claude Code
+- VS Code, Claude Code, Codex 
 - GitHub, Discord
 
 ### 오픈소스 및 특화 도구 (Specialized Platforms)
