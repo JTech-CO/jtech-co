@@ -64,53 +64,58 @@
 
 ## Featured Projects
 
-JTech Co. 의 오리지널 프로젝트입니다.
-AI 도구, 브라우저 기반 시뮬레이터, 개발자 유틸리티, 공학 시각화 프로젝트를 중심으로 구성되어 있습니다.
+JTech Co.가 직접 기획·개발한 오리지널 프로젝트 가운데, 현재 공개 서비스로 운영 중이거나 기술적 완성도와 확장성이 높은 작업을 선별했습니다.
+AI 지식 서비스, 로컬 AI, 공학 시뮬레이션, 데이터 기반 웹 서비스와 브라우저 유틸리티를 중심으로 구성되어 있습니다.
 
-| 프로젝트                                                                   | 분류        | 기술 스택      | 설명                                                        |
-| ---------------------------------------------------------------------- | --------- | ---------- | --------------------------------------------------------- |
-| [StudyForge](https://github.com/JTech-CO/StudyForge)                   | AI / 교육   | TypeScript | 노트, 마인드맵, 퀴즈, 플래시카드, 팟캐스트를 생성할 수 있는 BYOK 기반 학습 자료 생성기입니다. |
-| [worldle](https://github.com/JTech-CO/worldle)                         | 웹 게임      | JavaScript | 거리, 방향, 근접도 힌트를 바탕으로 매일 바뀌는 국가를 맞히는 서버리스 지리 퍼즐 게임입니다.     |
-| [repoquest](https://github.com/JTech-CO/repoquest)                     | 개발자 교육    | TypeScript | 브라우저에서 Git 객체 모델을 시뮬레이션하는 비공식 GitHub 학습용 에뮬레이터입니다.        |
-| [Tokenizer-Structure](https://github.com/JTech-CO/Tokenizer-Structure) | AI 시각화    | JavaScript | LLM 토크나이저의 4단계 작동 과정을 인터랙티브하게 설명하는 시뮬레이터입니다.              |
-| [3D-Moskstraumen](https://github.com/JTech-CO/3D-Moskstraumen)         | 공학 시뮬레이션  | JavaScript | 해저 지형에 따른 유속과 와도 변화를 분석하는 3D 유체 시뮬레이션입니다.                 |
-| [IP-Master](https://github.com/JTech-CO/IP-Master)                     | 네트워크 유틸리티 | JavaScript | 네트워크 분석, 변환, 조회 작업을 처리할 수 있는 웹 기반 도구 모음입니다.               |
+| 프로젝트 | 분류 | 기술 스택 | 설명 |
+| --- | --- | --- | --- |
+| [AI-Learning-Wiki](https://github.com/JTech-CO/AI-Learning-Wiki) | AI / 지식 서비스 | Astro, MDX, JavaScript | AI·LLM 개념을 1,600여 개의 검토 문서, 학습 코스, 프롬프트와 실험실로 연결한 한국어 위키입니다. |
+| [StudyForge](https://github.com/JTech-CO/StudyForge) | AI / 교육 | React, TypeScript, Vite | 문서·영상·오디오를 노트, 마인드맵, 퀴즈, 플래시카드와 팟캐스트로 변환하는 BYOK 학습 자료 생성기입니다. |
+| [RAM-for-Local-AI](https://github.com/JTech-CO/RAM-for-Local-AI) | 로컬 AI / 가이드 | Markdown, HTML, JavaScript | RAM·VRAM·통합 메모리를 기준으로 모델, 양자화와 런타임을 선택하도록 돕는 11개 가이드와 웹 계산기입니다. |
+| [RAM](https://github.com/JTech-CO/RAM) | 반도체 / 기술 문서 | Markdown, SVG | SRAM부터 HBM·DRAM·HBF·NAND까지 메모리 계층을 셀, 공정, 신뢰성과 수율 관점에서 해부한 근거 중심 문서군입니다. |
+| [AeroSketch](https://github.com/JTech-CO/Aerosketch) | 공학 시뮬레이션 | TypeScript, Canvas, LBM | 스케치나 이미지 실루엣을 D2Q9 LBM 유동장과 Cd·Cl·St 공력 추세로 변환하는 브라우저 기반 공력 워크벤치입니다. |
+| [Barycenter](https://github.com/JTech-CO/Barycenter) | 우주 / 수치 시뮬레이션 | React, Canvas, JavaScript | 심플렉틱 적분으로 N-body 궤도, 삼체 문제, 라그랑주점과 보존량 드리프트를 분석하는 중력 샌드박스입니다. |
+| [naver-pay-map](https://github.com/JTech-CO/naver-pay-map) | 지도 / 데이터 서비스 | Next.js, TypeScript, PostGIS | 공공 상가 데이터를 정제해 네이버페이 결제 가능 매장을 카테고리와 거리순으로 탐색하는 전국 지도 서비스입니다. |
+| [RepoSize](https://github.com/JTech-CO/RepoSize) | 브라우저 확장 | TypeScript, Chrome MV3 | GitHub 저장소를 내려받기 전에 실제 용량과 대용량 경고를 페이지에 표시하는 Chrome Web Store 확장 프로그램입니다. |
 
 <details>
-<summary><strong>더 많은 프로젝트 보기</strong></summary>
+<summary><strong>더 많은 오리지널 프로젝트 보기</strong></summary>
 
-### 공학 및 시뮬레이션
+### 응용 소프트웨어 및 진행 중인 프로젝트
 
-* [BottleNeckSim](https://github.com/JTech-CO/BottleNeckSim)
-  CPU와 GPU 병목 현상을 3D로 시각화하는 시뮬레이터입니다.
+* [just-ledger](https://github.com/JTech-CO/just-ledger)
+  정수 기반 금액 처리, 데이터베이스 불변식과 11개 언어별 도메인 모듈을 결합한 셀프호스팅 복식부기 개인 원장입니다.
 
-* [Mini-Jet-Engine-Sim](https://github.com/JTech-CO/Mini-Jet-Engine-Sim)
-  공학 교육과 시각화를 위한 RC 제트 엔진 시뮬레이터입니다.
+* [CNC-Render](https://github.com/JTech-CO/CNC-Render)
+  Rust 기반 G-code 파서, 모달 상태와 Toolpath IR부터 단계적으로 구축하는 웹 CNC 가공 학습·시뮬레이션 프로젝트입니다.
+
+* [AI-Token-Monitor](https://github.com/JTech-CO/AI-Token-Monitor)
+  Claude Code와 Codex CLI의 로컬 로그를 분석해 토큰 사용량과 API 환산 비용을 실시간으로 표시하는 Electron 오버레이입니다.
+
+### 데이터, AI 및 지식 도구
+
+* [Ramen-DB](https://github.com/JTech-CO/Ramen-DB)
+  식약처 공공데이터를 기반으로 국내 라면 제품, 영양 정보와 판매 상태를 제공하는 데이터 플랫폼입니다.
+
+* [Schema-Hub](https://github.com/JTech-CO/Schema-Hub)
+  AI 워크플로와 에이전트 설계에 재사용할 수 있는 스키마 기반 프롬프트 모음입니다.
+
+* [non-ai-design-skill-pack](https://github.com/JTech-CO/non-ai-design-skill-pack)
+  AI 기반 결과물에서 반복적으로 나타나는 시각적 관습을 줄이기 위한 디자인 지향 스킬팩입니다.
+
+### 시각화 및 개발자 유틸리티
 
 * [Black-Hole-Benchmark](https://github.com/JTech-CO/Black-Hole-Benchmark)
   블랙홀 시각화 콘셉트를 적용한 WebGL 기반 컴퓨터 성능 벤치마크입니다.
 
-### AI, 프롬프트 및 지식 도구
-
-* [Schema-Hub](https://github.com/JTech-CO/Schema-Hub)
-  AI 워크플로에 활용할 수 있는 스키마 프롬프트 모음입니다.
-
-* [non-ai-design-skill-pack](https://github.com/JTech-CO/non-ai-design-skill-pack)
-  AI 기반 결과물이 지나치게 인공지능처럼 보이지 않도록 돕는 디자인 지향 스킬팩입니다.
-
-### 개발자 및 유틸리티 도구
+* [MaCode](https://github.com/JTech-CO/MaCode)
+  소스코드를 macOS 스타일 창으로 렌더링하고 고품질 비디오로 내보낼 수 있는 웹앱입니다.
 
 * [BWEK-Pro](https://github.com/JTech-CO/BWEK-Pro)
-  일본어, 한국어, 중국어, UTF-8 복원 워크플로를 지원하는 서버리스 뷁어/문자 깨짐 변환 도구입니다.
+  일본어, 한국어, 중국어와 UTF-8 문자 깨짐의 변환·복원 워크플로를 제공하는 서버리스 도구입니다.
 
-* [MaCode](https://github.com/JTech-CO/MaCode)
-  소스코드를 Mac 스타일 창 형태로 렌더링하고 고품질 비디오로 내보낼 수 있는 웹앱입니다.
-
-* [Easy-Forensics-Pro](https://github.com/JTech-CO/Easy-Forensics-Pro)
-  웹 기반 이미지 포렌식 도구 모음입니다.
-
-* [UIUX-Toolbox](https://github.com/JTech-CO/UIUX-Toolbox)
-  웹사이트 제작에 활용할 수 있는 UI/UX 용어 사전 및 도구 모음입니다.
+* [portfolio-hub](https://github.com/JTech-CO/portfolio-hub)
+  확장 프로그램, 유틸리티와 시뮬레이션을 데이터 기반 카탈로그로 정리한 정적 포트폴리오입니다.
 
 </details>
 
