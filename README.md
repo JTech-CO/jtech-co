@@ -8,6 +8,12 @@
 
 **"쉽지만 깊이 있게"** 라는 명확한 원칙 아래, 다양한 도구와 기술을 융합하여 가치 있는 콘텐츠와 서비스를 만들어가고 있습니다.
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jtech-co&theme=blue_green&animation=sequence&name=JTech-CO&title_color=ffba3e&text_color=b7f0aa&bg_color=090909&border_color=ffffff&icon_color=e0e0e0&chart_color=b2ccff)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jtech-co&theme=blue_green&animation=sequence&title_color=ffba3e&text_color=b7f0aa&bg_color=090909&border_color=ffffff&icon_color=e0e0e0&chart_color=b2ccff)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jtech-co&theme=blue_green&animation=sequence&title_color=ffba3e&text_color=b7f0aa&bg_color=090909&border_color=ffffff&icon_color=e0e0e0&chart_color=b2ccff)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jtech-co&theme=blue_green&animation=sequence&title_color=ffba3e&text_color=b7f0aa&bg_color=090909&border_color=ffffff&icon_color=e0e0e0&chart_color=b2ccff)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jtech-co&theme=blue_green&animation=sequence&utcOffset=9&title_color=ffba3e&text_color=b7f0aa&bg_color=090909&border_color=ffffff&icon_color=e0e0e0&chart_color=b2ccff)
+
 ---
 
 ## Introduction & Vision
@@ -29,23 +35,51 @@
 
 ### 소프트웨어 개발 (Frontend & Backend)
 
-- **Languages**: JavaScript, C, C++, Python, Java
-- **Web Technologies**: HTML, CSS
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Web Technologies**
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 
 ### 수치 해석 및 연구 (Numerical Analysis & Research)
 
-- MATLAB, Simulink
-- LaTeX (학술 및 기술 문서 작성)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
+![Simulink](https://img.shields.io/badge/Simulink-ED7D31?style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ### 3D 모델링 및 디자인 (Design & 3D Modeling)
 
-- **CAD & Modeling**: SolidWorks, CATIA, Rhino, AutoCAD
-- **Graphics & Rendering**: KeyShot, Photoshop, Illustrator
+**CAD & Modeling**
+
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge)
+![CATIA](https://img.shields.io/badge/CATIA-29318B?style=for-the-badge)
+![Rhinoceros](https://img.shields.io/badge/Rhinoceros-%23801010.svg?style=for-the-badge&logo=rhinoceros&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/autocad-%23E51050.svg?style=for-the-badge&logo=autocad&logoColor=white)
+
+**Graphics & Rendering**
+
+![KeyShot](https://img.shields.io/badge/KeyShot-1C1C1C?style=for-the-badge)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ### 하드웨어 및 로봇공학 (Hardware & Robotics)
 
-- **Embedded Systems**: Arduino, Raspberry Pi
-- **Cloud & Engineering**: AWS, Unreal Engine
+**Embedded Systems**
+
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/raspberrypi-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+**Cloud & Engineering**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ---
 
@@ -53,8 +87,15 @@
 
 ### 개발 및 생산성 도구 (Development & Productivity)
 
-- VS Code, Claude Code, Codex
-- GitHub, Discord, Hacker News
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=claudecode&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-191919?style=for-the-badge)
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Hacker News](https://img.shields.io/badge/Hacker%20News-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white)
+![Geek News](https://img.shields.io/badge/Geek%20News-6162ff?style=for-the-badge&logo=gcombinator&logoColor=white)
 
 ---
 
