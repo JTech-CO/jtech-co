@@ -172,5 +172,5 @@ JTech Co.의 프로젝트는 다음 기준을 우선합니다.
 
 ## 연락처 및 기타
 
-- Proton Mail: jtech-bryan@proton.me
+- ![Protonmail](https://img.shields.io/badge/ProtonMail-%238B89CC.svg?style=for-the-badge&logo=protonmail&logoColor=white): jtech-bryan@proton.me
 - <img src="https://komarev.com/ghpvc/?username=jtech-co&label=Profile%20views&color=0e75b6&style=flat" />
