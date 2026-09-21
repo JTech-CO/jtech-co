@@ -4,7 +4,7 @@
 
 # Bryan M.
 
-안녕하세요. 기술, 디자인, 개발 지식을 연결하는 1인 콘텐츠 스튜디오 **JTech Co.** 의 대표 Bryan M.입니다.
+안녕하세요. 기술, 디자인, 개발 지식을 연결하는 소규모 콘텐츠 스튜디오 **JTech Co.** 의 대표 Bryan M.입니다.
 
 **"쉽지만 깊이 있게"** 라는 명확한 원칙 아래, 다양한 도구와 기술을 융합하여 가치 있는 콘텐츠와 서비스를 만들어가고 있습니다.
 
@@ -18,16 +18,18 @@
 
 ## Introduction & Vision
 
-자동화 시대가 도래할수록 인간 고유의 창의성이 지닌 힘은 더욱 빛을 발합니다.
+기술을 단순히 설명하는 데 그치지 않고, **직접 실행하고 조작하며 검증할 수 있는 형태로 만드는 것**을 지향합니다.
 
-여러 프로젝트와 실험을 통해 축적한 경험과 인사이트를 기록하고 공유하며, 기술을 통해 더 많은 사람에게 영감을 주는 것을 목표로 합니다.
+AI와 소프트웨어부터 공학, 데이터, 하드웨어까지 서로 다른 분야를 연결해 실제로 사용할 수 있는 도구와 시뮬레이션, 지식 시스템을 개발합니다.
+
+작은 아이디어라도 문서나 데모에서 끝내기보다 실행 가능한 프로토타입과 공개 프로젝트로 발전시키고, 그 과정에서 얻은 구조와 지식을 다시 공유하는 것을 목표로 합니다.
 
 ### 핵심 영역
 
-- **소프트웨어 개발**: 웹 서비스 아키텍처 설계 및 프로그램 개발
-- **기술 콘텐츠 및 출판**: 과학/공학 전문 칼럼 작성, 해외 논문 및 기술 칼럼 번역, 전자책 및 단행본 집필
-- **3D 모델링 및 시각화**: 제품 기구 설계, 3D 모델링 및 렌더링
-- **하드웨어 및 로봇공학**: 자율주행 알고리즘 구현, 로봇 제어 시스템 설계 및 구현
+* **AI & Developer Tools**: AI 스킬·에이전트 워크플로, 브라우저 확장 프로그램, 개발 생산성 도구와 local-first 소프트웨어
+* **Engineering & Simulation**: 자동차, 유체, 반도체, CNC, 우주·물리 시스템 등의 원리를 브라우저 기반 시뮬레이션과 인터랙티브 시각화로 구현
+* **Data & Knowledge Systems**: 공공데이터, 기술 자료와 조사 결과를 구조화해 검색·비교·학습·분석에 사용할 수 있는 데이터 서비스 구축
+* **Hardware & Prototyping**: 센서 융합, 임베디드 시스템, 로봇 제어와 기구 설계를 소프트웨어 시뮬레이션에서 프로토타입까지 연결
 
 ---
 
@@ -101,58 +103,60 @@
 
 ## Featured Projects
 
-JTech Co.가 직접 기획·개발한 오리지널 프로젝트 가운데, 현재 공개 서비스로 운영 중이거나 기술적 완성도와 확장성이 높은 작업을 선별했습니다.
-AI 지식 서비스, 로컬 AI, 공학 시뮬레이션, 데이터 기반 웹 서비스와 브라우저 유틸리티를 중심으로 구성되어 있습니다.
+오리지널 프로젝트 중 **현재 활용 가능성, 기술적 완성도, 후속 확장 가능성**을 가진 주요 프로젝트들입니다.
 
-| 프로젝트 | 분류 | 기술 스택 | 설명 |
-| --- | --- | --- | --- |
-| [AI-Learning-Wiki](https://github.com/JTech-CO/AI-Learning-Wiki) | AI / 지식 서비스 | Astro, MDX, JavaScript | AI·LLM 개념을 1,600여 개의 검토 문서, 학습 코스, 프롬프트와 실험실로 연결한 한국어 위키입니다. |
-| [StudyForge](https://github.com/JTech-CO/StudyForge) | AI / 교육 | React, TypeScript, Vite | 문서·영상·오디오를 노트, 마인드맵, 퀴즈, 플래시카드와 팟캐스트로 변환하는 BYOK 학습 자료 생성기입니다. |
-| [RAM-for-Local-AI](https://github.com/JTech-CO/RAM-for-Local-AI) | 로컬 AI / 가이드 | Markdown, HTML, JavaScript | RAM·VRAM·통합 메모리를 기준으로 모델, 양자화와 런타임을 선택하도록 돕는 11개 가이드와 웹 계산기입니다. |
-| [RAM](https://github.com/JTech-CO/RAM) | 반도체 / 기술 문서 | Markdown, SVG | SRAM부터 HBM·DRAM·HBF·NAND까지 메모리 계층을 셀, 공정, 신뢰성과 수율 관점에서 해부한 근거 중심 문서군입니다. |
-| [AeroSketch](https://github.com/JTech-CO/Aerosketch) | 공학 시뮬레이션 | TypeScript, Canvas, LBM | 스케치나 이미지 실루엣을 D2Q9 LBM 유동장과 Cd·Cl·St 공력 추세로 변환하는 브라우저 기반 공력 워크벤치입니다. |
-| [Barycenter](https://github.com/JTech-CO/Barycenter) | 우주 / 수치 시뮬레이션 | React, Canvas, JavaScript | 심플렉틱 적분으로 N-body 궤도, 삼체 문제, 라그랑주점과 보존량 드리프트를 분석하는 중력 샌드박스입니다. |
-| [naver-pay-map](https://github.com/JTech-CO/naver-pay-map) | 지도 / 데이터 서비스 | Next.js, TypeScript, PostGIS | 공공 상가 데이터를 정제해 네이버페이 결제 가능 매장을 카테고리와 거리순으로 탐색하는 전국 지도 서비스입니다. |
-| [RepoSize](https://github.com/JTech-CO/RepoSize) | 브라우저 확장 | TypeScript, Chrome MV3 | GitHub 저장소를 내려받기 전에 실제 용량과 대용량 경고를 페이지에 표시하는 Chrome Web Store 확장 프로그램입니다. |
+| 프로젝트                                                                               | 분류             | 기술 스택                              | 설명                                                                                        |
+| ---------------------------------------------------------------------------------- | -------------- | ---------------------------------- | ----------------------------------------------------------------------------------------- |
+| [SANE](https://github.com/JTech-CO/SANE)                                           | AI / 디자인 스킬    | Markdown, HTML, GitHub Pages       | AI 생성 인터페이스에서 반복되는 10가지 설계 실패를 구체적인 제약과 검수 규칙으로 바꾼 경량 디자인 계약·스킬 패키지입니다.                   |
+| [Content-Templates](https://github.com/JTech-CO/Content-Templates)                 | AI / 콘텐츠 도구    | Markdown                           | 블로그, Threads, X, 리뷰 등 여러 플랫폼의 글쓰기를 실제 경험과 자료에 맞춰 재사용할 수 있도록 정리한 AI 작성 템플릿 모음입니다.          |
+| [Schema-Hub](https://github.com/JTech-CO/Schema-Hub)                               | AI / 에이전트 설계   | Markdown, Text                     | 역할 프롬프트부터 수학·과학·경제 에이전트, 토큰 최적화와 Claude Code 하네스까지 재사용 가능한 AI 스키마를 모은 저장소입니다.             |
+| [chzzk-downloader](https://github.com/JTech-CO/chzzk-downloader)                   | 브라우저 확장        | JavaScript, Chrome MV3, Playwright | 네이버 치지직 VOD와 클립을 MP4로 저장하는 Chrome 확장 프로그램으로, 배포용 dist·릴리스 패키지와 자동 검증 흐름을 함께 제공합니다.        |
+| [kr-apartment-market-skill](https://github.com/JTech-CO/kr-apartment-market-skill) | 데이터 / AI · MCP | Python, MCP, 공공데이터 API             | 국토교통부 등 공공 실거래를 바탕으로 주거 조건을 구조화하고 적합도와 신뢰도를 분리해 설명하는 한국 부동산 Home Finder 스킬·MCP 패키지입니다.    |
+| [AI-Learning-Wiki](https://github.com/JTech-CO/AI-Learning-Wiki)                   | AI / 지식 서비스    | Astro 7, Starlight, MDX            | 1,676개 검토 문서, 27개 학습 코스, 1,500개 프롬프트와 6개 실험실을 연결한 한국어 AI·LLM 학습 위키입니다.                    |
+| [AeroSketch](https://github.com/JTech-CO/Aerosketch)                               | 공학 시뮬레이션       | Vite, TypeScript, D2Q9 LBM         | 직접 그린 형상이나 이미지 실루엣을 CPU 기반 D2Q9 LBM 유동장과 Cd·Cl·St 공력 추세로 연결하는 브라우저 공력 스케치벤치입니다.           |
+| [CNC-Render](https://github.com/JTech-CO/CNC-Render)                               | 공학 시뮬레이션       | TypeScript, Rust/WASM, WebGPU      | G-code 해석, 공구 운동, 충돌 검사와 점진적 소재 제거를 WebGPU/WebGL 2 작업실에서 연결하는 오픈 소스 CNC 교육·시뮬레이션 프로젝트입니다. |
 
 <details>
 <summary><strong>더 많은 오리지널 프로젝트 보기</strong></summary>
 
 ### 응용 소프트웨어 및 진행 중인 프로젝트
 
-* [just-ledger](https://github.com/JTech-CO/just-ledger)
-  정수 기반 금액 처리, 데이터베이스 불변식과 11개 언어별 도메인 모듈을 결합한 셀프호스팅 복식부기 개인 원장입니다.
+* [Smart-Cart-Autonomy-Lab](https://github.com/JTech-CO/Smart-Cart-Autonomy-Lab)
+  UWB·LiDAR·ToF 관측, 점유 맵, 후륜 구동과 Ackermann 조향을 한 장면에서 시험하는 WebGL 2 기반 사용자 추종 스마트카트 시뮬레이터입니다.
 
-* [CNC-Render](https://github.com/JTech-CO/CNC-Render)
-  Rust 기반 G-code 파서, 모달 상태와 Toolpath IR부터 단계적으로 구축하는 웹 CNC 가공 학습·시뮬레이션 프로젝트입니다.
+* [ShaderDesk-Studio](https://github.com/JTech-CO/ShaderDesk-Studio)
+  GLSL을 실시간 편집·저장·내보내기하고 Windows/macOS 데스크톱 월페이퍼 어댑터 소스까지 연결한 local-first 셰이더 플레이그라운드입니다.
 
-* [AI-Token-Monitor](https://github.com/JTech-CO/AI-Token-Monitor)
-  Claude Code와 Codex CLI의 로컬 로그를 분석해 토큰 사용량과 API 환산 비용을 실시간으로 표시하는 Electron 오버레이입니다.
+* [Real-Moog-1960](https://github.com/JTech-CO/Real-Moog-1960)
+  패치 케이블이 실제 Web Audio 그래프를 바꾸도록 구현한 1960년대 모듈러 Moog 워크플로 기반 오프라인 교육용 웹 신디사이저입니다.
+
+* [InfoPic](https://github.com/JTech-CO/InfoPic)
+  계정·백엔드·AI API 없이 브라우저에서 카드뉴스를 편집하고 PNG 또는 ZIP으로 내보내는 local-first 정보성 캐러셀 제작기입니다.
 
 ### 데이터, AI 및 지식 도구
 
-* [Ramen-DB](https://github.com/JTech-CO/Ramen-DB)
-  식약처 공공데이터를 기반으로 국내 라면 제품, 영양 정보와 판매 상태를 제공하는 데이터 플랫폼입니다.
+* [RAM-for-Local-AI](https://github.com/JTech-CO/RAM-for-Local-AI)
+  RAM·VRAM·통합 메모리 조건으로 로컬 AI 모델, 양자화, 런타임과 운용 방식을 좁히는 11개 가이드와 웹 메모리 계산기입니다.
 
-* [Schema-Hub](https://github.com/JTech-CO/Schema-Hub)
-  AI 워크플로와 에이전트 설계에 재사용할 수 있는 스키마 기반 프롬프트 모음입니다.
+* [RAM](https://github.com/JTech-CO/RAM)
+  SRAM·DRAM·HBM·HBF·NAND를 셀 구조, 공정, 신뢰성, 수율과 시스템 계층 관점에서 근거 중심으로 해부한 메모리 기술 문서군입니다.
 
-* [non-ai-design-skill-pack](https://github.com/JTech-CO/non-ai-design-skill-pack)
-  AI 기반 결과물에서 반복적으로 나타나는 시각적 관습을 줄이기 위한 디자인 지향 스킬팩입니다.
+* [Project-Sales-Skill](https://github.com/JTech-CO/Project-Sales-Skill)
+  제품 조사, 잠재고객 적합성 검토, 아웃리치 초안, 답변 분류와 핸드오프까지 근거 중심으로 연결하는 플랫폼 중립형 B2B 세일즈 스킬 패키지입니다.
 
 ### 시각화 및 개발자 유틸리티
 
-* [Black-Hole-Benchmark](https://github.com/JTech-CO/Black-Hole-Benchmark)
-  블랙홀 시각화 콘셉트를 적용한 WebGL 기반 컴퓨터 성능 벤치마크입니다.
+* [RepoSize](https://github.com/JTech-CO/RepoSize)
+  GitHub 저장소를 내려받기 전에 실제 크기와 대용량 경고를 저장소 페이지에 표시하는 Chrome Manifest V3 확장 프로그램입니다.
 
-* [MaCode](https://github.com/JTech-CO/MaCode)
-  소스코드를 macOS 스타일 창으로 렌더링하고 고품질 비디오로 내보낼 수 있는 웹앱입니다.
+* [RepoRun](https://github.com/JTech-CO/RepoRun)
+  저장소를 clone하기 전에 런타임, 패키지 매니저, 빌드 스크립트와 환경 단서를 실제 실행 없이 근거와 함께 점검하는 GitHub 확장 프로그램입니다.
 
-* [BWEK-Pro](https://github.com/JTech-CO/BWEK-Pro)
-  일본어, 한국어, 중국어와 UTF-8 문자 깨짐의 변환·복원 워크플로를 제공하는 서버리스 도구입니다.
+* [RepoDelta](https://github.com/JTech-CO/RepoDelta)
+  사용자가 지정한 checkpoint 이후 기본 브랜치에서 바뀐 커밋과 파일을 비교하고 검토 시점을 로컬에 관리하는 GitHub 확장 프로그램입니다.
 
-* [portfolio-hub](https://github.com/JTech-CO/portfolio-hub)
-  확장 프로그램, 유틸리티와 시뮬레이션을 데이터 기반 카탈로그로 정리한 정적 포트폴리오입니다.
+* [RAM-LAB](https://github.com/JTech-CO/RAM-LAB)
+  SRAM·DRAM·HBM·HBF·3D NAND의 구조, 회로, 동작 단계와 저장 데이터를 3D·회로 뷰로 연결한 오프라인 인터랙티브 메모리 실험실입니다.
 
 </details>
 
@@ -160,13 +164,16 @@ AI 지식 서비스, 로컬 AI, 공학 시뮬레이션, 데이터 기반 웹 서
 
 ## Project Principles
 
-JTech Co.의 프로젝트는 다음 기준을 우선합니다.
+JTech Co.의 프로젝트는 규모나 분야가 달라도 다음 기준을 공통으로 적용합니다.
 
-- **Simple First**: 복잡한 기능보다 사용자가 바로 이해할 수 있는 구조를 우선합니다.
-- **Useful Output**: 실험용 코드라도 실제 사용 가능한 결과물을 지향합니다.
-- **Readable Code**: 혼자 개발하더라도 유지보수 가능한 코드 구조를 유지합니다.
-- **Content + Software**: 기술 콘텐츠, 자동화, 웹 도구를 연결하는 방향을 선호합니다.
-- **Small but Deployable**: 작게 만들되, 배포 가능한 형태까지 완성하는 것을 목표로 합니다.
+* **Problem Before Feature**: 기능 수를 늘리기보다 먼저 해결하려는 문제와 사용 장면을 명확히 정의합
+* **Evidence Before Claims**: 기술·데이터·공학 결과에는 출처, 가정과 한계를 남기고 측정값·추정값·교육용 근사를 구분
+* **Small Core, Real Delivery**: 범위는 작게 시작하되 실제로 실행·배포·내보내기까지 가능한 결과물 완성
+* **Local First, External Only When Needed**: 불필요한 계정, 백엔드, 텔레메트리와 외부 의존성을 줄이고 외부 API는 목적과 경계를 명확히 함
+* **Readable & Modular**: 데이터, 도메인 로직, 시뮬레이션 엔진, UI와 어댑터를 분리해 유지보수와 교체·확장이 쉬운 구조를 지향
+* **Explain by Building**: 문서만 쓰거나 화면만 만드는 데 그치지 않고, 시뮬레이터·계산기·시각화·도구로 원리와 구현을 서로 검증할 수 있게 연결
+* **QA Is Part of the Release**: 테스트, 검증 범위, 변경 기록, 개인정보 처리와 알려진 제한도 결과물의 일부로 취급
+* **AI-Assisted, Human-Verified**: AI는 조사와 구현 속도를 높이는 도구로 활용하되, 공개 기준은 생성 결과보다 근거·테스트·재현성과 최종 검토에 둠
 
 ---
 
